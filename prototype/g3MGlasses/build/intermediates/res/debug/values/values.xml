@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/mdelacalle/Documents/java_src/IGO-GIT-Repository/retos/prototype/g3MGlasses/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="blue_lh">#1b215f</color>
+    <color name="g3mGreenDark">#7a8e27</color>
+    <color name="g3mGreenLight">#a4c035</color>
+    <color name="gal_bg_white">#fcfcfc</color>
+    <color name="gal_dropdown">#009edb</color>
+    <color name="gal_text_grey">#6e6e6e</color>
+    <color name="gal_text_light_grey">#a3a3a3</color>
+    <color name="navigation_bg">#363636</color>
+    <color name="navigation_bg_disabled">#eeeeee</color>
+    <color name="yellowIberia">#eaaf00</color>
+    <!-- From: file:/Users/mdelacalle/Documents/java_src/IGO-GIT-Repository/retos/prototype/g3MGlasses/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/mdelacalle/Documents/java_src/IGO-GIT-Repository/retos/prototype/g3MGlasses/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Glob3 Mobile</string>
+    <string name="close">Close</string>
+    <string name="foursquare">foursquare</string>
+    <string name="g3m">explore</string>
+    <string name="go_to">Directions</string>
+    <string name="image_description">Image</string>
+    <string name="more_info">More information</string>
+    <string name="retrieving">searching data …</string>
+    <string name="wikipedia">wikipedia</string>
+    <!-- From: file:/Users/mdelacalle/Documents/java_src/IGO-GIT-Repository/retos/prototype/g3MGlasses/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="CustomTheme" parent="@android:style/Theme.DeviceDefault">
+        <!-- Theme customization goes here. -->
+    </style>
+</resources>

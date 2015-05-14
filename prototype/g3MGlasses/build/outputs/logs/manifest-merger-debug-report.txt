@@ -1,0 +1,118 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	package
+		ADDED from AndroidManifest.xml:3:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:5:5
+	android:versionCode
+		ADDED from AndroidManifest.xml:4:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+uses-sdk
+ADDED from AndroidManifest.xml:7:5
+MERGED from prototype:g3MAndroidSDK:unspecified:7:5
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:9:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:8:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-feature#0x00020000
+ADDED from AndroidManifest.xml:12:5
+MERGED from prototype:g3MAndroidSDK:unspecified:11:5
+	android:glEsVersion
+		ADDED from AndroidManifest.xml:12:19
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:13:5
+	android:name
+		ADDED from AndroidManifest.xml:13:22
+uses-permission#android.permission.INTERNET
+ADDED from AndroidManifest.xml:14:5
+	android:name
+		ADDED from AndroidManifest.xml:14:22
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from AndroidManifest.xml:15:5
+	android:name
+		ADDED from AndroidManifest.xml:15:22
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from AndroidManifest.xml:16:6
+	android:name
+		ADDED from AndroidManifest.xml:16:23
+uses-permission#android.permission.WAKE_LOCK
+ADDED from AndroidManifest.xml:17:7
+	android:name
+		ADDED from AndroidManifest.xml:17:24
+uses-permission#com.google.android.glass.permission.DEVELOPMENT
+ADDED from AndroidManifest.xml:18:9
+	android:name
+		ADDED from AndroidManifest.xml:18:27
+application
+ADDED from AndroidManifest.xml:21:5
+MERGED from prototype:g3MAndroidSDK:unspecified:13:5
+	android:label
+		ADDED from prototype:g3MAndroidSDK:unspecified:13:18
+	android:allowBackup
+		ADDED from AndroidManifest.xml:22:9
+	android:icon
+		ADDED from AndroidManifest.xml:23:9
+	android:theme
+		ADDED from AndroidManifest.xml:24:9
+activity#com.glob3mobile.glasses.G3MGlassesDemoMainActivity
+ADDED from AndroidManifest.xml:26:9
+	android:label
+		ADDED from AndroidManifest.xml:29:13
+	android:immersive
+		ADDED from AndroidManifest.xml:28:14
+	android:name
+		ADDED from AndroidManifest.xml:27:13
+intent-filter#com.google.android.glass.action.VOICE_TRIGGER
+ADDED from AndroidManifest.xml:31:10
+action#com.google.android.glass.action.VOICE_TRIGGER
+ADDED from AndroidManifest.xml:32:17
+	android:name
+		ADDED from AndroidManifest.xml:32:25
+meta-data#com.google.android.glass.VoiceTrigger
+ADDED from AndroidManifest.xml:35:10
+	android:resource
+		ADDED from AndroidManifest.xml:37:17
+	android:name
+		ADDED from AndroidManifest.xml:36:17
+activity#com.glob3mobile.glasses.WikipediaViewActivity
+ADDED from AndroidManifest.xml:42:9
+	android:name
+		ADDED from AndroidManifest.xml:42:19
+category#android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:43:17
+	android:name
+		ADDED from AndroidManifest.xml:43:27
+category#android.intent.category.BROWSABLE
+ADDED from AndroidManifest.xml:45:11
+	android:name
+		ADDED from AndroidManifest.xml:45:21
+activity#com.glob3mobile.glasses.GooglePlaceActivity
+ADDED from AndroidManifest.xml:47:9
+	android:name
+		ADDED from AndroidManifest.xml:47:19
+activity#org.glob3.mobile.G3MAndroidSDKActivity
+ADDED from prototype:g3MAndroidSDK:unspecified:14:9
+	android:label
+		ADDED from prototype:g3MAndroidSDK:unspecified:16:13
+	android:name
+		ADDED from prototype:g3MAndroidSDK:unspecified:15:13
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from prototype:g3MAndroidSDK:unspecified:17:13
+action#android.intent.action.MAIN
+ADDED from prototype:g3MAndroidSDK:unspecified:18:17
+	android:name
+		ADDED from prototype:g3MAndroidSDK:unspecified:18:25
+category#android.intent.category.LAUNCHER
+ADDED from prototype:g3MAndroidSDK:unspecified:20:17
+	android:name
+		ADDED from prototype:g3MAndroidSDK:unspecified:20:27

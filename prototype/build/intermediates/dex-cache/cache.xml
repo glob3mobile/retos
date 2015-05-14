@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mdelacalle/Documents/java_src/android/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/mdelacalle/Documents/java_src/IGO-GIT-Repository/retos/prototype/g3MGlasses/build/intermediates/pre-dexed/debug/support-v4-19.1.0-f96f1a4f6d75f203560101b1d803fd33782d76aa.jar" />
+    </item>
+    <item
+        jar="/Users/mdelacalle/Documents/java_src/IGO-GIT-Repository/retos/prototype/g3MGlasses/build/intermediates/exploded-aar/prototype/g3MAndroidSDK/unspecified/libs/java_websocket.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3e07ef8877a9452f38aa73275b45c39db0922d00">
+        <dex dex="/Users/mdelacalle/Documents/java_src/IGO-GIT-Repository/retos/prototype/g3MGlasses/build/intermediates/pre-dexed/debug/java_websocket-bd144f928f8ab3233d3298dc0c487485f71442bc.jar" />
+    </item>
+    <item
+        jar="/Users/mdelacalle/Documents/java_src/IGO-GIT-Repository/retos/prototype/g3MGlasses/build/intermediates/exploded-aar/prototype/g3MAndroidSDK/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c5eb4456afe537e792181a1a4de2502a9541aec">
+        <dex dex="/Users/mdelacalle/Documents/java_src/IGO-GIT-Repository/retos/prototype/g3MGlasses/build/intermediates/pre-dexed/debug/classes-c322d35f8b80d65d023774c49f5a98356ca7d950.jar" />
+    </item>
+    <item
+        jar="/Users/mdelacalle/Documents/java_src/IGO-GIT-Repository/retos/prototype/g3MSharedSDK/build/libs/g3MSharedSDK.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b584fe034093c61ecdfe886c662170dbebc6d0b0">
+        <dex dex="/Users/mdelacalle/Documents/java_src/IGO-GIT-Repository/retos/prototype/g3MGlasses/build/intermediates/pre-dexed/debug/g3MSharedSDK-259e361240895ad23250d3c0f266b363cfbcc835.jar" />
+    </item>
+
+</items>

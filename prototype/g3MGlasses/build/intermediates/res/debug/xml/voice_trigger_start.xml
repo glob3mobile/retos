@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trigger command="EXPLORE_NEARBY" >
+     <constraints
+        gps="true"
+        location="true"
+        network="true" />
+     </trigger><!-- From: file:/Users/mdelacalle/Documents/java_src/IGO-GIT-Repository/retos/prototype/g3MGlasses/src/main/res/xml/voice_trigger_start.xml -->

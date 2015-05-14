@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/g3MAndroidSDK/g3MAndroidSDK.iml" filepath="$PROJECT_DIR$/g3MAndroidSDK/g3MAndroidSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g3MGlasses/g3MGlasses.iml" filepath="$PROJECT_DIR$/g3MGlasses/g3MGlasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g3MSharedSDK/g3MSharedSDK.iml" filepath="$PROJECT_DIR$/g3MSharedSDK/g3MSharedSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prototype.iml" filepath="$PROJECT_DIR$/prototype.iml" />
+    </modules>
+  </component>
+</project>
+

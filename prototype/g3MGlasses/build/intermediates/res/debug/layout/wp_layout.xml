@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <WebView
+         xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/webview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+ />
+
+   <!-- From: file:/Users/mdelacalle/Documents/java_src/IGO-GIT-Repository/retos/prototype/g3MGlasses/src/main/res/layout/wp_layout.xml -->

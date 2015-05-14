@@ -1,0 +1,31 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".G3MGlassesDemoMainActivity" >
+
+       <LinearLayout
+           android:id="@+id/glob3"
+           android:keepScreenOn="true"
+           android:layout_width="fill_parent"
+           android:layout_height="match_parent"
+           android:orientation="horizontal" >
+
+
+
+
+    </LinearLayout>
+    
+           <TextView
+           android:id="@+id/data"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_weight="1"
+           android:visibility="visible"
+           android:ems="10"
+           android:text="@string/retrieving" />
+    
+
+
+</RelativeLayout>
+<!-- From: file:/Users/mdelacalle/Documents/java_src/IGO-GIT-Repository/retos/prototype/g3MGlasses/src/main/res/layout/activity_main.xml -->
