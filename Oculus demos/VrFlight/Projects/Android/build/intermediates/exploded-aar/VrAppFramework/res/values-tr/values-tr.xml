@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/tw/e67b783b988fa622/MobileMain/VrAppFramework/res/values-tr/strings.xml -->
+    <eat-comment/>
+    <string name="out_of_memory">Oculus 360 Photos\'u kullanmak için lütfen telefonunda en az %1$sKB boş depolama alanı aç.</string>
+    <string name="swipe_to_browse">Göz Atmak İçin Parmağını Kaydır</string>
+</resources>

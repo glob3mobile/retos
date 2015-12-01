@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/tw/e67b783b988fa622/MobileMain/VrAppFramework/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="out_of_memory">For å bruke Oculus 360 Photos må du frigjøre minst %1$s kB med lagringsplass på telefonen.</string>
+    <string name="swipe_to_browse">Sveip for å bla gjennom</string>
+</resources>

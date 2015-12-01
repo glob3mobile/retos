@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Chano/Documents/Trabajo/ovr_sdk_mobile_1.0.0.0/VrSamples/Native/VrCamera/Projects/Android/build/intermediates/exploded-aar/VrAppFramework/res/values-de/values-de.xml -->
+    <eat-comment/>
+    <string name="out_of_memory">Bitte mache mindestens %1$s KB Speicherplatz auf deinem Telefon frei, damit du Oculus 360 Photos verwenden kannst.</string>
+    <string name="swipe_to_browse">Zum Browsen wischen</string>
+</resources>

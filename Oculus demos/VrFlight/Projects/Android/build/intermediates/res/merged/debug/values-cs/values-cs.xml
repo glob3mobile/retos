@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Chano/Documents/Trabajo/ovr_sdk_mobile_1.0.0.0/VrSamples/Native/VrFlight/Projects/Android/build/intermediates/exploded-aar/VrAppFramework/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="out_of_memory">Abyste mohli používat aplikaci Oculus 360 Photos, uvolněte v úložišti svého telefonu alespoň %1$s kB.</string>
+    <string name="swipe_to_browse">Prochází se přejetím prstem</string>
+</resources>

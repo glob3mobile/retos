@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/tw/e67b783b988fa622/MobileMain/VrAppFramework/res/values-el/assets.xml -->
+    <eat-comment/>
+    <string name="font_name">greek.fnt</string>
+    <!-- From: file:/E:/tw/e67b783b988fa622/MobileMain/VrAppFramework/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="out_of_memory">Για να χρησιμοποιήσετε την εφαρμογή Oculus 360 Photos, ελευθερώστε χώρο αποθήκευσης τουλάχιστον %1$sKB στο τηλέφωνό σας.</string>
+    <string name="swipe_to_browse">Σύρετε για αναζήτηση</string>
+</resources>

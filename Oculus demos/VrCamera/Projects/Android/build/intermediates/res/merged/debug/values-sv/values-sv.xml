@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Chano/Documents/Trabajo/ovr_sdk_mobile_1.0.0.0/VrSamples/Native/VrCamera/Projects/Android/build/intermediates/exploded-aar/VrAppFramework/res/values-sv/values-sv.xml -->
+    <eat-comment/>
+    <string name="out_of_memory">Om du vill använda Oculus 360 Photos måste du frigöra minst %1$sKB lagringsutrymme i telefonen.</string>
+    <string name="swipe_to_browse">Svep för att bläddra</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Chano/Documents/Trabajo/ovr_sdk_mobile_1.0.0.0/VrSamples/Native/VrFlight/Projects/Android/build/intermediates/exploded-aar/VrAppFramework/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="font_name">japanese.fnt</string>
+    <string name="out_of_memory">Oculus 360 Photosを使用するには、携帯電話の空き容量を%1$sKB以上確保してください。</string>
+    <string name="swipe_to_browse">スワイプして閲覧</string>
+</resources>

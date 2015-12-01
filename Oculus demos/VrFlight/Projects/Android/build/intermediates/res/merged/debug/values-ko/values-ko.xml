@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Chano/Documents/Trabajo/ovr_sdk_mobile_1.0.0.0/VrSamples/Native/VrFlight/Projects/Android/build/intermediates/exploded-aar/VrAppFramework/res/values-ko/values-ko.xml -->
+    <eat-comment/>
+    <string name="font_name">korean.fnt</string>
+    <string name="out_of_memory">Oculus 360 Photos를 사용하려면 %1$sKB 이상의 휴대폰 저장 공간이 필요합니다.</string>
+    <string name="swipe_to_browse">검색하려면 살짝 미세요</string>
+</resources>

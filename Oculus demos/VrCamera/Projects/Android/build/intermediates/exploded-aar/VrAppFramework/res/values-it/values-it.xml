@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/tw/e67b783b988fa622/MobileMain/VrAppFramework/res/values-it/strings.xml -->
+    <eat-comment/>
+    <string name="out_of_memory">Per usare Oculus 360 Photos, libera almeno il %1$s KB della memoria del cellulare.</string>
+    <string name="swipe_to_browse">Passa il dito per navigare</string>
+</resources>
